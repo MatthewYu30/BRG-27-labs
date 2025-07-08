@@ -1,8 +1,10 @@
 # BRG-27-labs
 
 Lab Activities Docementation
+
 Introduction
-	This readme file explains the hands-on lab activities from the module “Introduction to Server Environments and Architectures”.  It covers various topics like setting up a Linux environment, creating a GitHub repository, and the different Linux services such as Apache 2, and Ubuntu firewall. 
+	
+ This readme file explains the hands-on lab activities from the module “Introduction to Server Environments and Architectures”.  It covers various topics like setting up a Linux environment, creating a GitHub repository, and the different Linux services such as Apache 2, and Ubuntu firewall. 
 
 Setting up Linux and GitHub
 
