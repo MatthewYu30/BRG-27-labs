@@ -47,3 +47,8 @@ Scripting Linux Server Functions
 Final Reflection on Lab Activities
 	
  The lab activities helped me in setting up and running a virtual machine and familiarizing myself with the Linux operating system.  It also introduced me to the Linux terminal which is where I used a lot of commands like touch and cat.  Creating bash scripts within the terminal has helped me understand the syntax of the bash language and it made realize that scripts can help automate repetitive tasks in the terminal.  I learned that using the cloud can be another way to run a virtual machine. It can be an advantage since it would be running on the cloud providers computing resources instead of your own computer’s resources.  Going through the lab activities was a fun experience and I will continue to learn and improve in Linux and the cloud.
+
+
+
+
+ 
