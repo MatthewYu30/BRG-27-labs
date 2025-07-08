@@ -1,6 +1,6 @@
 # BRG-27-labs
 
-Lab Activities Docementation
+Lab Activities Documentation
 
 Introduction
 	
